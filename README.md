@@ -1,0 +1,2 @@
+# ETG_IMS_of_Pharmacy_Python_Internship
+Inventory Management system for Cosmetics Pharmacy
